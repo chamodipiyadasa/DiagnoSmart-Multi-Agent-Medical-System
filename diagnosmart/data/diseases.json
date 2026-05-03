@@ -1,0 +1,32 @@
+{
+  "conditions": [
+    {
+      "name": "Common Cold",
+      "symptoms": ["cough", "sore throat", "runny nose", "sneezing", "mild fever"]
+    },
+    {
+      "name": "Influenza (Flu)",
+      "symptoms": ["fever", "headache", "body ache", "fatigue", "cough", "chills"]
+    },
+    {
+      "name": "COVID-19",
+      "symptoms": ["fever", "dry cough", "fatigue", "loss of taste", "loss of smell", "shortness of breath"]
+    },
+    {
+      "name": "Dengue",
+      "symptoms": ["high fever", "headache", "joint pain", "rash", "nausea", "vomiting"]
+    },
+    {
+      "name": "Migraine",
+      "symptoms": ["headache", "nausea", "light sensitivity", "sound sensitivity"]
+    },
+    {
+      "name": "Gastritis",
+      "symptoms": ["abdominal pain", "bloating", "nausea", "vomiting", "heartburn"]
+    },
+    {
+      "name": "Asthma Exacerbation",
+      "symptoms": ["shortness of breath", "wheezing", "chest tightness", "cough"]
+    }
+  ]
+}
